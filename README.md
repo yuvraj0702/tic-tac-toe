@@ -1,1 +1,1 @@
-# tic-tac-tow
+# tic-tac-toe game using html, css, js
